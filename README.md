@@ -32,7 +32,7 @@ python DDW.py
 ## 🛡️ License
 
 This project is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).
-> 📢 Before using this project, please carefully read the LICENSE file and comply with the GNU GPLv3 terms.
+> 📢 Before using this project, please carefully read the [LICENSE](LICENSE) file and comply with the GNU GPLv3 terms.
 
 ## ⚠️ Notes
 
