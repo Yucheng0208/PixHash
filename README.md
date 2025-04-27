@@ -10,7 +10,7 @@ This work will be presented at the
 
 ## 🚀 Features
 
-- Image upload and SHA-256 hash generation.
+- Image upload and `SHA-256` hash generation.
 - Image verification and restoration.
 - User-friendly GUI with Tkinter.
 
