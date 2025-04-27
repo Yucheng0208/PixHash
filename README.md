@@ -5,8 +5,7 @@ Using SHA-256 hashing on pixel data, supporting both verification and restoratio
 
 ## 📢 Publication Information
 
-This work will be presented at the  
-**2025 IEEE International Conference on Computation, Big-Data and Engineering (IEEE ICCBE 2025)**.
+This work will be presented at the  **2025 IEEE International Conference on Computation, Big-Data and Engineering (IEEE ICCBE 2025)**.
 
 ## 🚀 Features
 
