@@ -1,4 +1,4 @@
-# Image Hash Encoder & Verifier (DDW)
+# Image Hash Encoder & Verifier
 
 This project provides a Python-based tool for image encryption and verification.  
 Using SHA-256 hashing on pixel data, supporting both verification and restoration.
